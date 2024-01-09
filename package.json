@@ -1,0 +1,15 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "Registration and Login System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "web2assignment1"
+  },
+  "author": "Yermek Aruzhan",
+  "license": "ISC"
+}
