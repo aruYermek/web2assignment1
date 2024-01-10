@@ -20,3 +20,4 @@ pool.query('SELECT NOW()', (err, res) => {
 });
 
 console.log(pool.query)
+
